@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "trucker-trips",
+  "private_key_id": "082508e3a470b7f1d07f1301ae0039eeea7018a4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDGt06BmvkNshJC\nGU+WYhrLdA7rGFPwcXgK0xDR7JY3005hhoIiHZDV9lcw10PCJXdUkQG0m7ecGUio\nq0Nf0hjavKft4fxBgRiWopZ4hvj+SyGGaDNx30sqMV7CHHB65qHqc3HBpbvVbRMO\ns/xwMvhSd0tPkm6Hj0/xQ0aW45zAD+7JdLpNDPLM3zMUkPZg8NKZ814az0rWfYhu\nr0RBVyqWKaJgvvtPftakvsK3LQp9InsWvVQoM8qOHv6xyRHx2kAP4qAeUKdN6K+k\nhvnb4dtMA2AwLMw+lY0n3VpkjsJ0GSTvWU5jzMuzV3kuwLqmqdCh69CjdXQP0N4Q\nU5AEbNk/AgMBAAECggEAKss4D2Yx41apYu2ze4XGEnF8cvmKvhmZie85TJQAJ6aM\nVylR5gnq8oD59u0szOcnoyEVNnFgYa/6O0SinkSPELAXE/4aRnsIMgxyjiM3BQBm\nCF1xUsENHVmDeBcKzBTV4rkY0uSfpk82jvCI2RrI6m2BXPICdpQQ2bqsvXrn+14x\n24qJC07koQEIVxMA+/Xy2nAxU1QwO+92pX2HmCYT0tCJERXzDvKsojdYmv7Z8UYC\nxdbmFn+i1uiVhXWDi9/s2it8AG3lePJA0/ez40mD55IBtmNN6vi1O/SxzLyfODUq\n6V70ECsfEIlkvzuRIdr3DwkU5a/YIRek2rdjFUyc+QKBgQDlsaFkg9Qj8PQKwTMJ\nHDAnC2eGmrkgzKUGZho/uJzG27kdnfYJ7OKjUQ8UFBzuGn8gHmz+b00nUnQpmvUh\nbNU68ME009FPb+23u0BlFgTmLfrPgJoMgq626QdQ4DfjvCDoxuotoXoq+IsuWSJ0\nz2SR3Z54D7B1xcL8JnsnNUhVdwKBgQDdeXDQO+ClbqX6wBVz50a33a81GG7Ve5ub\nHG6B/viNH2bhSwYtKbtvDOjZcnO9FR+WEYX/2L1B2IXUriYnJW3rvB1TYsTQ6xcr\nRqKFArYE9bsgSE89iesYgxfZQqIqFCun60XhwJGsccNxz+hvaDSosACe5VylGkWk\nRZF0YNQseQKBgGvaZZMiB5m8yYrHPySW9NFQnJLq0eTh0tdXWBn1oMALajfK9T2h\n2qWfKTpfW1o+XNUDFGDAeHTvVZY3qcTBKrqbU81vbIglYXT1Wv5cQX6ntm56z1ry\nfgFrGEFUl0m7C6ThyhIVEZ1dyVTBC9nXjDyl2IQ9sbkLXEwz8X3umgFvAoGAXQfr\nHH1acwNUk0zmdgY7TXbAZzQ5MlG23mQGA3Mf4t/C7nX+RTBXfGFW2ihad52M5BO+\nTuczMJqMNPdmLWFql/Av/VvqwrtNwy7ri6XE4bZ7ASd+qaHqcCR4+xkjVzubzvBk\nLV0fk+lBqOglgc6q+ATebeB4lx2/DS7v14vo9DkCgYBqqraVshdE5l5P0gjkB0/f\nov2fuOHbg2xkCA6xoN7iTRBtr8OudeOO0waVFRQMv0TIfJVsgIpZe2n8ono9Fc/S\nznOccAUtOViGavEam0mqXafGJkSXFXVMxVYgfh2ATQa+BJMMGI/wX3TAI7IOv/Vo\neBrYMpIJes+Fa1WOOz3nEg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "trucker-trips@appspot.gserviceaccount.com",
+  "client_id": "109416191973842636838",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trucker-trips%40appspot.gserviceaccount.com"
+}

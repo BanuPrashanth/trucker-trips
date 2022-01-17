@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "trucker-trips",
+  "private_key_id": "b6a00fd3e39f28a0956a277b9f5375f8f1c8b213",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD1mVuGIKeUSrdd\n8MOjNUQDekluFq8QOHfp50fykY5XQbjzfViS/ezMBIwh26tfx+Mihs/RkkKfZdys\ndfv20L8h7Q76N9OwDj9fMdgAWrDVTa3om1CUEXzhGVc1yTf4Zl5kG1T7QnDhL3qE\n6C2+jMGcd//Xr/3xDq2Awz3dt8mTJGIQNAWbDwlyKrxY6LDcAK4MjmsGVJjLVOSV\nmVwcQD10URl0gQ3wnafjJicpxWvs302mdT4iMibUdJJXDfTM7fP26yHcmcO0mDlh\nRuEVPyb9fwe3AzotWDVINDXQEpqi6wYRE4677hpaAMh0LXsrbWMtv9ARVgiBGv2j\nkEOvpTL/AgMBAAECggEAA6FvEh7zpedoF2L9VfR0JfAPdxE0BBIVcEpeEUrpdMO2\nMcqCPIy1Q6rSr04FA9EH1GYGEhEU0sKwlZ7vi/s4AHyH7SZV1ijDkaH5C1KVCA5j\nGtmacujzRWgGWa5LGWDmmSvFT+G/gqxNn+I1D9xLlMpSq46s5bmyP/VHfP2JQE5H\n04ynya6DdHPGLuzyOEZiqBm2emlXvBwWrbjwGb7dsTqB0TiW6OWFfHccTXWYtKF0\nRfdo2erzGU6pelUIoSlM4ASnG07ORixFZGw0K9wx02zEXJYBuQcz3kI9vEgaLfmS\nGcczE9DY1w5D4q3bYRZ29d40CP4oLGcYQDdD6Qq/uQKBgQD7QT+HwjyvNH0/YjP8\ngoPmT+8GuSzlnoboKmbRoPYUSiDhDB0LZxJXcjRaJYdOgmNQC1Da3+dW7ZQabJ7J\n5KJPqhAQ0uCA2hwjmGApJ6i/BVVKOUEYIpp5F3ACjSl5tHlQlXrQHoX0/WzZ5ucc\nKmvUdvTtDvSjueDUPPutIePzPQKBgQD6PMPR2YWvsCwbH2CjHYvCaWO1gQgT+1zS\nE6VejNOaEl3SR+t7J59/LYF/GncyqKouzrPoGUL0uihF7N2xmBKUw6M9pHEIQqQD\nLhY2jvr2wrFDu8U46JXpjlEeP4S1RsrGtGra4ntjW7tuwvixmbQfNEOe28z79yXO\nVNPyl58y6wKBgQCWNyZSdjBt14XiNUY7e5R8R+HyNRfAmIyzlVYvknpNGxyZL/LV\ndGQk3+So2LMSnyXdH0bR9PeMozHesn4k2oqn8lb0l/8dSkl0ho9HS6y5t+iMHbrr\nQRT1vKt8+wSG/P1izlvEvdr8498GT+RwlHQvbId2i3B7yo++lE8r7Y0pSQKBgD97\nfuoT1vh1JxtSYH/BFR2jAuqe61+2WxvoZAGSlHP3yNl56WF68dmfv8RxAGBXraTm\nR3nQPs47E9B5gNx3Ce+3mggfWZWQ4m70GCqLJ1vGlJXsYuJHDxELS8TytEYQyYyT\nZLBW2JqiQPCegdz8c1efOLBqbpxVXL/1gTeAA6E1AoGBANCx2SSvu2vBIIoo9ETM\nuGxHGQrE6PwQkYYHBbfSgoBlL24AgZnBjH2c6BerGrfytEoronaRw9LO5ZVDrVf/\nLBjHV6wucrZmoZ1FvRF95FDVnvrztmfesKXP9WBawVERe6OGCK0f1IwHSWVoScEZ\nvfSVlEGKlUja1qy8OiEMCXPJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-6j3ta@trucker-trips.iam.gserviceaccount.com",
+  "client_id": "116699914277296897514",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-6j3ta%40trucker-trips.iam.gserviceaccount.com"
+}
