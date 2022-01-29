@@ -6,6 +6,7 @@ const updateRow = require('./googleSheet/updateRow');
 const getRowCount = require('./googleSheet/getRowCount');
 const getRows = require('./googleSheet/getRows');
 const deleteRows = require('./googleSheet/deleteRows');
+const getColumnData = require('./googleSheet/getColumnData');
 
 const app = express();
 
@@ -51,6 +52,29 @@ app.post('/add/:sheet', async (req, res) => {
 
     if(googleSheetID){
         response = await addRows(googleSheetID, sheet, body);
+    }
+
+    res.json(response)
+})
+
+app.get('/getColumn/:sheet/:key', async (req, res) => {
+
+    const headers = req.headers;
+    const authorization = headers?.authorization;
+
+    const uid = authorization?.replace('Bearer ', '');
+
+    const sheet = req.params?.sheet;
+    const key = req.params?.key;
+
+    const googleSheetID = await getGoogleSheetId(uid);
+
+    let response = {
+        error: "Something Went Wrong!!"
+    }
+
+    if(googleSheetID){
+        response = await getColumnData(googleSheetID, sheet, key);
     }
 
     res.json(response)
